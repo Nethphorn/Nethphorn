@@ -7,9 +7,8 @@ I work on Full-Stack Development and Im also looking to get into Game Developmen
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Used
 
-**Programming Languages**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
