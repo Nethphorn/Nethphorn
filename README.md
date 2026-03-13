@@ -3,7 +3,7 @@
 ### 🚀 Full-Stack Developer
 I'm Tepbrathna, a Full-Stack Developer based in Cambodia.
 
-I work on Full-Stack Development and Im also looking to get into Game Development.
+I work on Full-Stack web Development and Im also getting into Machine Learning and Game Development.
 
 ---
 
